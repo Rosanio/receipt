@@ -6,8 +6,10 @@ h1 {
   text-align: center;
 }
 
-#story {
+#receipt {
   display: none;
+  background-color: white;
+  padding: 10px;
 }
 
 /* ----- Form ------ */
